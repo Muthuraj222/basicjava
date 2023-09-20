@@ -1,0 +1,5 @@
+step 1: open vs code 
+step2: open terminal
+Step3: commands version:
+       javac
+       javac --version

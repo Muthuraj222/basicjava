@@ -1,0 +1,33 @@
+Day 2: 30/08/23
+
+Step1: open vs code
+step2: create folder in folder option 
+step3: open terminal for code run
+step4: add extension external java 
+step5: create new file in the created folder by using .java extension
+
+Java shell- Java shell is used to for experimental when we can use the commands without java struture like class name extra.
+
+syntax: j shell 
+ example : System.out.print(6);
+  op: 6
+  But in characters we give double quatation ""
+ example : System.out.println("Hello world");
+ op: Hello world
+
+cmd codes and output:
+
+jshell> 3+5
+$1 ==> 8
+
+jshell> System.out.println(6);
+6
+
+jshell> System.out.println("Hello world");
+Hello world
+
+jshell> System.out.print("Welcome to java programming");
+Welcome to java programming
+jshell>
+
+

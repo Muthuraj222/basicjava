@@ -1,0 +1,6 @@
+Step1: search java jdk download =download java for windows = install java and set path in environment variable = 
+commands in java to show version and compiler:
+javac
+javac --version
+
+path set = open os and program files = open java = bin = copy path and set and in environment variable 
